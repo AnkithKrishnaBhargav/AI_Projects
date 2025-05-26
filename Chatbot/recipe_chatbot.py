@@ -116,4 +116,4 @@ if st.button("Find Recipes"):
 
 # Footer
 st.markdown("---")
-st.write("Built by Ankith Krishna Bhargav(1BM23AI025) and Dhruva GS(1BM23AI061).")
+st.write("Built by Ankith Krishna Bhargav.")
